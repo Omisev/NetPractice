@@ -1,4 +1,10 @@
 # NetPractice
+
+<div align="center">
+  <img src="[https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png?raw=true](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png)" alt="Badge du projet NetPractice">
+</div>
+
+##
 Le projet NetPractice est conçu pour offrir une expérience pratique dans la configuration de réseaux de petite taille. À travers ce projet, vous apprendrez les fondamentaux du fonctionnement des adressages avec le protocole TCP/IP, en résolvant des cas pratiques qui simulent des environnements réseau réels.
 
  ## Objectif
