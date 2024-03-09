@@ -1,7 +1,7 @@
 # NetPractice
 
 <div align="center">
-  <img src="[https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png?raw=true](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png)" alt="Badge du projet NetPractice">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png" alt="Badge du projet NetPractice">
 </div>
 
 ##
