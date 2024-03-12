@@ -6,6 +6,11 @@
 
 ##
 <div align="center">
+  <img src="https://github.com/Omisev/NetPractice/blob/main/net_practice_representation.webp" alt="representation">
+</div>
+
+##
+<div align="center">
   <img src="https://github.com/Omisev/NetPractice/blob/main/capture_NetPractice.png" alt="sreenshot">
 </div>
 
